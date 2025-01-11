@@ -1,9 +1,9 @@
 {
   "users": [
     {
-      "password": "contoh"
+      "password": 
+      
+      "contoh"
     }
   ]
 }
-
-
