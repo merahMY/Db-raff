@@ -1,2 +1,9 @@
-# Db-raff
-Db raff
+{
+  "users": [
+    {
+      "password": "contoh"
+    }
+  ]
+}
+
+
